@@ -34,7 +34,7 @@
     "eslint-plugin-mocha": "^4.11.0",
     "express": "^4.16.2",
     "mocha": "^4.0.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "nyc": "^11.3.0",
     "semantic-release": "^8.2.0",
     "supertest": "^3.0.0",
